@@ -1,0 +1,16 @@
+[2026-04-03 16:23:14] Simulazione completata | Punteggio Finale: 0 | Errori commessi: 2
+[2026-04-19 18:29:36] Simulazione completata | Punteggio Finale: 10 | Errori commessi: 0
+[2026-04-20 21:41:36] Simulazione completata | Punteggio Finale: 0 | Errori commessi: 2
+[2026-04-20 21:41:41] Simulazione completata | Punteggio Finale: 10 | Errori commessi: 0
+[2026-04-20 21:41:56] Simulazione completata | Punteggio Finale: -25 | Errori commessi: 9
+[2026-04-20 21:44:28] Simulazione completata | Punteggio Finale: 10 | Errori commessi: 0
+[2026-04-20 21:44:29] Simulazione completata | Punteggio Finale: 20 | Errori commessi: 0
+[2026-04-20 21:44:39] Simulazione completata | Punteggio Finale: 30 | Errori commessi: 0
+[2026-04-20 21:48:40] Simulazione completata | Punteggio Finale: 10 | Errori commessi: 0
+[2026-04-20 21:48:50] Simulazione completata | Punteggio Finale: 10 | Errori commessi: 2
+[2026-04-20 21:48:56] Simulazione completata | Punteggio Finale: 10 | Errori commessi: 2
+[2026-04-20 21:48:58] Simulazione completata | Punteggio Finale: 20 | Errori commessi: 0
+[2026-04-20 21:51:32] Simulazione completata | Punteggio Finale: 5 | Errori commessi: 1
+[2026-04-20 21:51:39] Simulazione completata | Punteggio Finale: 5 | Errori commessi: 2
+[2026-04-28 09:10:02] Simulazione completata | Punteggio Finale: -10 | Errori commessi: 4
+[2026-04-28 09:10:26] Simulazione completata | Punteggio Finale: 0 | Errori commessi: 0
